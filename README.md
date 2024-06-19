@@ -9,6 +9,7 @@ Cons:
 - VIP only ( Will make non-vip version soon!)
 - Less features (Only finds paths, no auto reconnect or aura screenshots. Coming soon)
 - This is not as good compared to dolph sols macro but if you find constant issues with camera alignment please give it a try!
+<br><br>
 If you really care about features or you don't have issues with camera alignment, trust me, use dolph sols macro.
 
 Roadmap (Highest to lowest priority)
