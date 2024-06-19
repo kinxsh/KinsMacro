@@ -2,8 +2,10 @@
 A simple alternative to DolphSols Macro (https://github.com/BuilderDolphin/dolphSol-Macro/releases)
 I got inspired to make this from dolph sols macro so go check it out! I decided to make this due to a annoying issue with camera alignment having very poor reliability
 and causing it to mess up the macro, this aims to fix it.
+
 Pros:
 - More reliable
+
 Cons:
 - Less efficient paths (due to no camera alignment)
 - VIP only ( Will make non-vip version soon!)
